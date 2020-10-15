@@ -1,3 +1,3 @@
 # GreatGame
-# How to play: Download the .html or copy the code and paste it in a html file.
+# How to play: Download the .zip or download the project zip file and the below game engine.
 a good game pls play
